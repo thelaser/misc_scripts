@@ -10,7 +10,7 @@
 # ... and so on
 
 # USAGE:  ./name.sh month/year
-          ./name.sh 08/2022
+#          ./name.sh 08/2022
 
 INIT_DATE="09/2020"
 [ $1 ] && INIT_DATE=$1
